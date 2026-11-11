@@ -1,0 +1,6 @@
+{
+  "name": "Aura Creative Studio",
+  "description": "Premium digital agency crafting bespoke mobile apps, brand identities, and high-performance web platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
